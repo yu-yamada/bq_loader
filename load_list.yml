@@ -1,0 +1,6 @@
+project: project123 
+targets:
+  - dataset: dataset1 
+    table_name: table1
+  - dataset: dataset2
+    table_name: table2

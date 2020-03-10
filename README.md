@@ -1,1 +1,4 @@
 # bq_loader
+python3系を使い、gcsのデータをBQにloadするサンプル
+
+load_list.ymlに書いてあるテーブルを再帰的にloadする
